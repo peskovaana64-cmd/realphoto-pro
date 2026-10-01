@@ -1,0 +1,13 @@
+gradio>=5.0,<6
+torch>=2.5
+torchvision>=0.20
+diffusers>=0.35
+transformers>=4.45
+accelerate>=1.0
+safetensors>=0.4
+xformers>=0.0.28
+opencv-python-headless>=4.10
+Pillow>=10.4
+numpy>=1.26,<3
+spandrel>=0.4
+huggingface_hub>=0.26
